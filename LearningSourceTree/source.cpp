@@ -15,14 +15,15 @@ source::source()
 	// commit 9
 	// commit 10
 	// commit 11
-<<<<<<< HEAD
+
 	// commit 12
 	// commit 13
-=======
+
 		// commit 11 A
 		// commit 11 B
 		// commit 11 C
->>>>>>> 7ed7d1fb493bede77b1511c3036b473a4a5c4dc4
+
+	// commit 14
 }
 
 
